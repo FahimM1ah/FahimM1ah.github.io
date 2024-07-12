@@ -31,5 +31,15 @@
 - Conducted staff supervision and rota scheduling
 
 ## Projects
+
 ### Volatility-Adaptive Pyramiding Strategy with Temporal ATR Entry Logic
+
+Some introductory text or description about your project.
+
+## Embedded YouTube Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f1jxUhI7zow" frameborder="0" allowfullscreen></iframe>
+
+More text or content about your project.
+
 
