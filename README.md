@@ -3,7 +3,9 @@
 #### Technical Skills: C#, SQL, MQL4, MQL5
 
 ## Education
-- Double Engineering (D* D*), Computer Science (C), Core Mathematics (B) | University Technical College Leeds (_May 2020_)								       		
+#### University Technical College Leeds (A-Levels)
+- Double Engineering (D* D*), Computer Science (C), Core Mathematics (B) (_May 2020_)
+#### Co-operative Academy of Leeds (GCSEs)       		
 - 9 GCSEs from grades 6-8 including Mathematics (8), Physics (8), Computer Science (6), English Literature(6) and English Language (6) | Co-operative Academy of Leeds (_May 2020_)		
 
 ## Work Experience
