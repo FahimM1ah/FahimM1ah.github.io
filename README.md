@@ -29,6 +29,7 @@
 - Planned and opened a new branch in Preston St George’s shopping center
 - Managed incoming deliveries and logistics
 - Conducted staff supervision and rota scheduling
+
 ## Projects
 
 ### Volatility-Adaptive Pyramiding Strategy with Temporal ATR Entry Logic
