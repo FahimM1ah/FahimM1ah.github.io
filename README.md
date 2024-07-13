@@ -34,34 +34,30 @@
 
 ### Volatility-Adaptive Pyramiding Strategy with Temporal ATR Entry Logic
 
-Automated a trading approach that utilises pyramiding positions based on volatility and time-based ATR
-calculations as well as display vital information to the user. 
+Used C# to build a time-based trading system which takes entries based on a combination of quantitative analysis using Average True Range, volume timings and technical analysis of asset data. Risk management was conducted using pyramiding which involves incrementally increasing a position size as the asset price moves favorably to leverage profitable trends. Client also desired to have the analysis and trading zones displayed on the chart. This involved UI design, including creating and managing stack panels and child elements.
 
-
-<span style="color: blue;">**Video Demonstration**</span>
+**Video Demonstration**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f1jxUhI7zow" frameborder="0" allowfullscreen></iframe>
 
-This project's focuses were UI Development, Quantitative Analysis and Time-based Trading.
-
 ### DOW 30 Fixing Rate Breakout Strategy
 
-Automated a trading approach that utilises pyramiding positions based on volatility and time-based ATR
-calculations as well as display vital information to the user. 
+Successfully converted a client’s manual trading strategy into a profitable algorithm using C# and backwards-tested over historical and live data to provide insight into the method’s statistical edge. Within the first 2 weeks of deployment, an 8% ROI was achieved on the client's proprietary trading firm account. This algorithm also utilises cTrader's control framework to draw objects on chart to allow the user to view which trading levels are being focused on.
 
-<span style="color: blue;">**Video Demonstration**</span>
+**Video Demonstration**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/93tbqR4J568" frameborder="0" allowfullscreen></iframe>
 
-This project's focuses were UI Development, Quantitative Analysis and Time-based Trading.
-
 ### Complex Fractal Pattern Based Financial Trading Algorithm
 
-Automated a trading approach that utilises pyramiding positions based on volatility and time-based ATR
-calculations as well as display vital information to the user. 
+Converted a client's sophisticated manual trading methodology that leverages identifying fractalized engulfing patterns across various timeframes to dictate trading decisions. Users can tailor their risk management approach by choosing between percentage-based risk or fixed position size. This algorithm also will display valid fractals in a given range of data for the user to see and work with for manual trading.
 
-<span style="color: blue;">**Video Demonstration**</span>
+**Video Demonstration**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pBGhqlqnrGc" frameborder="0" allowfullscreen></iframe>
 
-This project's focuses were UI Development, Quantitative Analysis and Time-based Trading.
+### 5-star rated Forex Trading Analysis Tools
+
+Used MQL4 and MQL5 (specialised C languages) to create an indicator which shows the user a compact daily performance summary as well as displaying key buying and selling levels based on proprietary technical analysis. Received 5 star reviews with over 150+ clients on the official MQL5 marketplace.
+
+![Official MQL5 Product Page](https://www.mql5.com/en/market/product/103421)
