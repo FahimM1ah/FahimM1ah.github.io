@@ -34,12 +34,12 @@
 
 ### Volatility-Adaptive Pyramiding Strategy with Temporal ATR Entry Logic
 
-Some introductory text or description about your project.
+Automated a trading approach that utilises pyramiding positions based on volatility and time-based ATR
+calculations as well as display vital information to the user. 
 
 ## Embedded YouTube Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f1jxUhI7zow" frameborder="0" allowfullscreen></iframe>
 
-More text or content about your project.
-
+This project's focuses were UI Development, Quantitative Analysis and Time-based Trading.
 
