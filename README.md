@@ -37,9 +37,30 @@
 Automated a trading approach that utilises pyramiding positions based on volatility and time-based ATR
 calculations as well as display vital information to the user. 
 
-## Embedded YouTube Video
+## Video Demonstration
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f1jxUhI7zow" frameborder="0" allowfullscreen></iframe>
 
 This project's focuses were UI Development, Quantitative Analysis and Time-based Trading.
 
+### DOW 30 Fixing Rate Breakout Strategy
+
+Automated a trading approach that utilises pyramiding positions based on volatility and time-based ATR
+calculations as well as display vital information to the user. 
+
+## Video Demonstration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/93tbqR4J568" frameborder="0" allowfullscreen></iframe>
+
+This project's focuses were UI Development, Quantitative Analysis and Time-based Trading.
+
+### Complex Fractal Pattern Based Financial Trading Algorithm
+
+Automated a trading approach that utilises pyramiding positions based on volatility and time-based ATR
+calculations as well as display vital information to the user. 
+
+## Video Demonstration
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pBGhqlqnrGc" frameborder="0" allowfullscreen></iframe>
+
+This project's focuses were UI Development, Quantitative Analysis and Time-based Trading.
