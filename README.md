@@ -29,7 +29,6 @@
 - Planned and opened a new branch in Preston St George’s shopping center
 - Managed incoming deliveries and logistics
 - Conducted staff supervision and rota scheduling
-
 ## Projects
 
 ### Volatility-Adaptive Pyramiding Strategy with Temporal ATR Entry Logic
@@ -38,17 +37,15 @@ Used C# to build a time-based trading system which takes entries based on a comb
 
 **Video Demonstration**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f1jxUhI7zow" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f1jxUhI7zow" frameborder="0" allowfullscreen style="margin-bottom: 20px;"></iframe>
 
 ### DOW 30 Fixing Rate Breakout Strategy
 
-Successfully converted a client’s manual trading strategy into a profitable algorithm using C# and backwards-tested over historical and live data to provide insight into the method’s statistical edge. Within the first 2 weeks of deployment, an 8% ROI was achieved on the client's proprietary trading firm account. This algorithm also utilises cTrader's control framework to draw objects on chart to allow the user to view which trading levels are being focused on.
+Successfully converted a client’s manual trading strategy into a profitable algorithm using C# and backwards-tested over historical and live data to provide insight into the method’s statistical edge. Within the first 2 weeks of deployment, an 8% ROI was achieved on the client's proprietary trading firm account. This algorithm also utilizes cTrader's control framework to draw objects on chart to allow the user to view which trading levels are being focused on.
 
 **Video Demonstration**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/93tbqR4J568" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/93tbqR4J568" frameborder="0" allowfullscreen style="margin-bottom: 20px;"></iframe>
 
 ### Complex Fractal Pattern Based Financial Trading Algorithm
 
@@ -56,11 +53,10 @@ Converted a client's sophisticated manual trading methodology that leverages ide
 
 **Video Demonstration**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pBGhqlqnrGc" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pBGhqlqnrGc" frameborder="0" allowfullscreen style="margin-bottom: 20px;"></iframe>
 
 ### 5-star rated Forex Trading Analysis Tools
 
-Used MQL4 and MQL5 (specialised C languages) to create an indicator which shows the user a compact daily performance summary as well as displaying key buying and selling levels based on proprietary technical analysis. Received 5 star reviews with over 150+ clients on the official MQL5 marketplace.
+Used MQL4 and MQL5 (specialized C languages) to create an indicator which shows the user a compact daily performance summary as well as displaying key buying and selling levels based on proprietary technical analysis. Received 5-star reviews with over 150+ clients on the official MQL5 marketplace.
 
-![Official MQL5 Product Page](https://www.mql5.com/en/market/product/103421)
+[Official MQL5 Product Page](https://www.mql5.com/en/market/product/103421)
