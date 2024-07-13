@@ -40,6 +40,7 @@ Used C# to build a time-based trading system which takes entries based on a comb
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f1jxUhI7zow" frameborder="0" allowfullscreen></iframe>
 
+
 ### DOW 30 Fixing Rate Breakout Strategy
 
 Successfully converted a client’s manual trading strategy into a profitable algorithm using C# and backwards-tested over historical and live data to provide insight into the method’s statistical edge. Within the first 2 weeks of deployment, an 8% ROI was achieved on the client's proprietary trading firm account. This algorithm also utilises cTrader's control framework to draw objects on chart to allow the user to view which trading levels are being focused on.
@@ -48,6 +49,7 @@ Successfully converted a client’s manual trading strategy into a profitable al
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/93tbqR4J568" frameborder="0" allowfullscreen></iframe>
 
+
 ### Complex Fractal Pattern Based Financial Trading Algorithm
 
 Converted a client's sophisticated manual trading methodology that leverages identifying fractalized engulfing patterns across various timeframes to dictate trading decisions. Users can tailor their risk management approach by choosing between percentage-based risk or fixed position size. This algorithm also will display valid fractals in a given range of data for the user to see and work with for manual trading.
@@ -55,6 +57,7 @@ Converted a client's sophisticated manual trading methodology that leverages ide
 **Video Demonstration**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pBGhqlqnrGc" frameborder="0" allowfullscreen></iframe>
+
 
 ### 5-star rated Forex Trading Analysis Tools
 
