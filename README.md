@@ -61,3 +61,40 @@ Converted a client's sophisticated manual trading methodology that leverages ide
 Used MQL4 and MQL5 (specialized C languages) to create an indicator which shows the user a compact daily performance summary as well as displaying key buying and selling levels based on proprietary technical analysis. Received 5-star reviews with over 150+ clients on the official MQL5 marketplace.
 
 [Official MQL5 Product Page](https://www.mql5.com/en/market/product/103421)
+
+
+## Other Projects
+
+Here is a list of other miscellaneous projects I've worked on:
+
+- **Recipe Finder**
+  - WinForms application which takes ingredients from the user and utilises API calls to Edamams API to retreive recipes which include the ingredients given
+  - [View Repository](https://github.com/FahimM1ah/Recipe-Finder)
+
+- **Acceleration Velocity Jerk**
+  - A personal portfolio website to showcase my work and skills.
+  - [View Repository](https://github.com/FahimM1ah/Acceleration-Velocity-Jerk)
+
+- **ADX cAlgo**
+  - A simple weather application that fetches and displays weather data from an API.
+  - [View Repository](https://github.com/FahimM1ah/ADX-cAlgo)
+
+- **Engulfing and Failed Engulfing Strategy**
+  - An AI-powered chatbot built using Python and Natural Language Processing (NLP).
+  - [View Repository](https://github.com/FahimM1ah/Engulfing-Failed-Engulfing-cBot)
+
+- **Inverse Overlapping FVGs**
+  - A task management application to keep track of to-dos and deadlines.
+  - [View Repository](https://github.com/FahimM1ah/Inverse-Overlapping-FVGs)
+
+- **ORB (Opening Range Breakout) cAlgo Robot**
+  - A financial calculator for various investment and loan calculations.
+  - [View Repository](https://github.com/FahimM1ah/Opening-Range-Breakout-Strategy)
+
+## Contact
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/fahim-miah-ba404430a/) or via [email](fahim36912@gmail.com).
+
+---
+
+Thank you for visiting my GitHub portfolio!
