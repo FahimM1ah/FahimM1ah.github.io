@@ -76,7 +76,7 @@ Here is a list of other miscellaneous projects I've worked on:
   - [View Repository](https://github.com/FahimM1ah/Acceleration-Velocity-Jerk)
 
 - **ADX cAlgo**
-  - A simple weather application that fetches and displays weather data from an API.
+  - A cAlgo bot leveraging ADXR and EMA indicators to capitalise on trend strength which uses customisable pyramiding for risk management.
   - [View Repository](https://github.com/FahimM1ah/ADX-cAlgo)
 
 - **Engulfing and Failed Engulfing Strategy**
