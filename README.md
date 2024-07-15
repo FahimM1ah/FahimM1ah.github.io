@@ -72,7 +72,7 @@ Here is a list of other miscellaneous projects I've worked on:
   - [View Repository](https://github.com/FahimM1ah/Recipe-Finder)
 
 - **Acceleration Velocity Jerk**
-  - A personal portfolio website to showcase my work and skills.
+  - A cAlgo Indicator which shows acceleration (rate of change of velocity), velocity (rate of change of price over a given period) and jerk (rate of change of acceleration) in the form of a composite histogram.
   - [View Repository](https://github.com/FahimM1ah/Acceleration-Velocity-Jerk)
 
 - **ADX cAlgo**
@@ -80,15 +80,15 @@ Here is a list of other miscellaneous projects I've worked on:
   - [View Repository](https://github.com/FahimM1ah/ADX-cAlgo)
 
 - **Engulfing and Failed Engulfing Strategy**
-  - An AI-powered chatbot built using Python and Natural Language Processing (NLP).
+  - A cAlgo bot identifies trading opportunities based on engulfing candlestick patterns followed by a failed engulfing pattern with flexible risk management and customisable confluences.
   - [View Repository](https://github.com/FahimM1ah/Engulfing-Failed-Engulfing-cBot)
 
 - **Inverse Overlapping FVGs**
-  - A task management application to keep track of to-dos and deadlines.
+  - A cAlgo indicator that was created for a client who desired to see fair value gaps in assets which are inversed and overlap one another.
   - [View Repository](https://github.com/FahimM1ah/Inverse-Overlapping-FVGs)
 
 - **ORB (Opening Range Breakout) cAlgo Robot**
-  - A financial calculator for various investment and loan calculations.
+  - A cAlgo bot which executes trades based on opening range breakouts with optional martingale-style volume adjustment.
   - [View Repository](https://github.com/FahimM1ah/Opening-Range-Breakout-Strategy)
 
 ## Contact
