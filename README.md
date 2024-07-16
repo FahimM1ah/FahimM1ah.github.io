@@ -15,17 +15,17 @@
 - Developed custom algorithms for clients in the financial markets using **C#, MQL4** and **MQL5** as well as updated legacy code to newer versions of cTrader
 - Conducted data collection, processing and analysis for my developed algorithms to provide optimised settings and performance outlooks for my algorithms
 
-**Call Operative @ HMPO (_December 2020 - Present_)**
+**Call Operative @ HMPO (_2023 - 2023_)**
 - Handled inbound enquiries
 - Worked with databases and other CRM systems to modify or extract user data
 - Delivered profesional advice to clients while adhering to HMPO’s policies and GDPR
 
-**Inventory Manager @ Premier Farnell (_Mar 2022 — Oct 2022_)**
+**Inventory Manager @ Premier Farnell (_Jan 2022 — Oct 2022_)**
 - Reconcile data from numerous IT systems and databases to confirm lost components
 - Ensured correct quantities of components are in their designated locations
 - Handled hazardous chemicals and components safely while conducting various inventory checks
 
-**Store Manager and Sales Executive @ JC Couture (_December 2020 - Present_)**
+**Store Manager and Sales Executive @ JC Couture (_Aug 2021 - Jan 2022_)**
 - Planned and opened a new branch in Preston St George’s shopping center
 - Managed incoming deliveries and logistics
 - Conducted staff supervision and rota scheduling
