@@ -10,7 +10,7 @@
 - 9 GCSEs from grades 6-8 including Mathematics (8), Physics (8), Computer Science (6), English Literature(6) and English Language (6) (_August 2018_)		
 
 ## Work Experience
-**Algorithm Developer and Community Manager (_May 2023 - Present_)**
+**Algorithm Developer and Community Manager (_2022 - Present_)**
 - Developed 5-star rated financial analysis tools on MQL5 marketplace with 150+ clients 
 - Developed custom algorithms for clients in the financial markets using **C#, MQL4** and **MQL5** as well as updated legacy code to newer versions of cTrader
 - Conducted data collection, processing and analysis for my developed algorithms to provide optimised settings and performance outlooks for my algorithms
