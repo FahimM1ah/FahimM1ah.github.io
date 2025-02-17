@@ -7,6 +7,14 @@ With 3+ years of experience in C# development and .NET (Framework/Core), I speci
 
 ## Projects
 
+### TeleCopier: Low-Latency AI-Powered Message-to-Trade Processor
+
+TeleCopier is an AI-driven trading automation tool designed for seamless trade execution via Telegram signals. By leveraging WebView integration, JavaScript injection, and a REST API, it processes trading messages in real-time, extracts key details, and executes trades within milliseconds. It also offers customizable trade management features to enhance accuracy and efficiency.
+
+Many retail traders rely on signal providers for trade recommendations, but the inconsistent formatting of these messages makes automation challenging. TeleCopier solves this by using Natural Language Processing (NLP) AI to interpret diverse signal formats, converting them into executable trades while maintaining manual oversight and flexible trade management options.
+
+[View Repository](https://github.com/FahimM1ah/AI-Powered-Message-To-Trade-cTrader-Bot)
+
 ### Volatility-Adaptive Pyramiding Strategy with Temporal ATR Entry Logic
 
 Used C# to build a time-based trading system which takes entries based on a combination of quantitative analysis using Average True Range, volume timings and technical analysis of asset data. Risk management was conducted using pyramiding which involves incrementally increasing a position size as the asset price moves favorably to leverage profitable trends. Client also desired to have the analysis and trading zones displayed on the chart. This involved UI design, including creating and managing stack panels and child elements.
