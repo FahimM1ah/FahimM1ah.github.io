@@ -9,27 +9,6 @@
 **Co-operative Academy of Leeds (GCSEs)**      		
 - 9 GCSEs from grades 6-8 including Mathematics (8), Physics (8), Computer Science (6), English Literature(6) and English Language (6) (_August 2018_)		
 
-## Work Experience
-**Algorithm Developer and Community Manager (_2022 - Present_)**
-- Developed 5-star rated financial analysis tools on MQL5 marketplace with 150+ clients 
-- Developed custom algorithms for clients in the financial markets using **C#, MQL4** and **MQL5** as well as updated legacy code to newer versions of cTrader
-- Conducted data collection, processing and analysis for my developed algorithms to provide optimised settings and performance outlooks for my algorithms
-
-**Call Operative @ HMPO (_2023 - 2023_)**
-- Handled inbound enquiries
-- Worked with databases and other CRM systems to modify or extract user data
-- Delivered profesional advice to clients while adhering to HMPO’s policies and GDPR
-
-**Inventory Manager @ Premier Farnell (_Jan 2022 — Oct 2022_)**
-- Reconcile data from numerous IT systems and databases to confirm lost components
-- Ensured correct quantities of components are in their designated locations
-- Handled hazardous chemicals and components safely while conducting various inventory checks
-
-**Store Manager and Sales Executive @ JC Couture (_Aug 2021 - Jan 2022_)**
-- Planned and opened a new branch in Preston St George’s shopping center
-- Managed incoming deliveries and logistics
-- Conducted staff supervision and rota scheduling
-
 ## Projects
 
 ### Volatility-Adaptive Pyramiding Strategy with Temporal ATR Entry Logic
@@ -90,6 +69,36 @@ Here is a list of other miscellaneous projects I've worked on:
 - **ORB (Opening Range Breakout) cAlgo Robot**
   - A cAlgo bot which executes trades based on opening range breakouts with optional martingale-style volume adjustment.
   - [View Repository](https://github.com/FahimM1ah/Opening-Range-Breakout-Strategy)
+
+## Work Experience
+
+**Algorithm Developer and Community Manager (_2022 - Present_)**
+- Developed 5-star rated financial analysis tools on MQL5 marketplace with 200+ clients 
+- Developed custom algorithms for clients in the financial markets using **C#, MQL4** and **MQL5** as well as updated legacy code to newer versions of cTrader
+- Conducted data collection, processing and analysis for my developed algorithms to provide optimised settings and performance outlooks for my algorithms
+
+**Call Operative @ HMPO (_2023 - 2023_)**
+- Handled inbound enquiries
+- Worked with databases and other CRM systems to modify or extract user data
+- Delivered profesional advice to clients while adhering to HMPO’s policies and GDPR
+
+**Inventory Manager @ Premier Farnell (_Jan 2022 — Oct 2022_)**
+- Reconcile data from numerous IT systems and databases to confirm lost components
+- Ensured correct quantities of components are in their designated locations
+- Handled hazardous chemicals and components safely while conducting various inventory checks
+
+**Store Manager and Sales Executive @ JC Couture (_Aug 2021 - Jan 2022_)**
+- Planned and opened a new branch in Preston St George’s shopping center
+- Managed incoming deliveries and logistics
+- Conducted staff supervision and rota scheduling
+
+## Education
+
+**University Technical College Leeds (A-Levels)**
+- Double Engineering (D* D*), Computer Science (C), Core Mathematics (B) (_May 2020_)
+
+**Co-operative Academy of Leeds (GCSEs)**      		
+- 9 GCSEs from grades 6-8 including Mathematics (8), Physics (8), Computer Science (6), English Literature(6) and English Language (6) (_August 2018_)		
 
 ## Contact
 
