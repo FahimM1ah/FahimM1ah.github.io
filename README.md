@@ -1,13 +1,9 @@
 # .NET Developer
 
-#### Technical Skills: C#, SQL, MQL4, MQL5
+#### Technical Skills: C#, JavaScript, SQL, MQL4, MQL5, PineScript
 
-## Education
-**University Technical College Leeds (A-Levels)**
-- Double Engineering (D* D*), Computer Science (C), Core Mathematics (B) (_May 2020_)
-
-**Co-operative Academy of Leeds (GCSEs)**      		
-- 9 GCSEs from grades 6-8 including Mathematics (8), Physics (8), Computer Science (6), English Literature(6) and English Language (6) (_August 2018_)		
+## Professional Overview
+With 3+ years of experience in C# development and .NET (Framework/Core), I specialize in building efficient and scalable solutions. My expertise spans JavaScript, SQL, and C-based languages like MQL4/5. A key achievement in my career is developing an embedded AI-powered Message-to-Trade Engine, which converts human text messages into executable tasks within a financial platform. This innovation eliminates the need for external applications, reduces latency by over 60% compared to existing solutions, and achieves 100% translation accuracy.
 
 ## Projects
 
